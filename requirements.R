@@ -1,0 +1,15 @@
+install.packages(c(
+  "dplyr", 
+  "lubridate", 
+  "DBI", 
+  "RSQLite", 
+  "caret",
+  "randomForest", 
+  "arules", 
+  "ggplot2", 
+  "corrplot",
+  "shiny", 
+  "shinydashboard", 
+  "plotly", 
+  "DT"
+))
