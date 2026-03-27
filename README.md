@@ -1,6 +1,6 @@
 # 🍽️ Smart Canteen Analytics and Food Demand Prediction System
 
-**Repository Name:** `SmartCanteen_TeamX`
+**Repository Name:** `SmartCanteen_Team19`
 **Repository Link:** [https://github.com/Amit-kumar80844/Food-AND-Demand-Predict-](https://github.com/Amit-kumar80844/Food-AND-Demand-Predict-)
 
 ---
@@ -503,19 +503,25 @@ The system reduces guesswork in inventory management and provides a scalable tem
 
 | 2023BCS0144| Contribution |
 |:------------|:-------------|
+<!--
 | **001** | Dataset sourcing (Kaggle), Star Schema design |
 | **002** | visualization design|
 | **003** | Shiny dashboard (`app/app.R`) |
-
+-->
 | 2023BCS0138| Contribution |
-|:------------|:-------------|
+PDF BY GAMMA AI
+<!--
 | **001** | Exploratory Data Analysis (`03_visual_analysis.R`)|
 | **002** | report writing |
+-->
+
 
 
 | 2023BCS0177| Contribution |
 |:------------|:-------------|
+<!--
 | **001** | Dataset sourcing (Kaggle), data merging script (`dataSetMerger.R`). Star Schema design |
+-->
 ---
 
 ## 📚 References
