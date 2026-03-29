@@ -513,7 +513,6 @@ The system reduces guesswork in inventory management and provides a scalable tem
 | **002** | Created box plots, scatter plots, and histograms for analysis |
 | **003** | Performed Exploratory Data Analysis (EDA) to identify patterns and trends |
 | **004** | Analyzed relationships between price, quantity, weather, and revenue |
-| **005** | Contributed to interpretation of results and integration into the report |
 
 
 | 2023BCS0177| Contribution |
