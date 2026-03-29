@@ -509,7 +509,13 @@ The system reduces guesswork in inventory management and provides a scalable tem
 | **003** | Shiny dashboard (`app/app.R`) |
 -->
 | 2023BCS0138| Contribution |
-PDF BY GAMMA AI
+|:------------|:-------------|
+
+- Implemented data visualization in R (03_visual_analysis.R)
+- Created box plots, scatter plots, and histograms for analysis
+- Performed Exploratory Data Analysis (EDA) to identify patterns and trends
+- Analyzed relationships between price, quantity, weather, and revenue
+- Contributed to interpretation of results and integration into the report
 <!--
 | **001** | Exploratory Data Analysis (`03_visual_analysis.R`)|
 | **002** | report writing |
